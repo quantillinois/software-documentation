@@ -6,15 +6,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Quant Software Documentation',
+  tagline: 'It is not enough for code to work.',
   url: 'https://uiuc-quant.github.io/software-documentation',
   baseUrl: '/software-documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'uiuc-quant', // Usually your GitHub org/user name.
-  projectName: 'software-documentation', // Usually your repo name.
+  organizationName: 'uiuc-quant', 
+  projectName: 'software-documentation', 
   deploymentBranch: 'gh-pages',
   presets: [
     [
@@ -23,14 +23,6 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -43,21 +35,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Quant Software Documentation',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Quant Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/uiuc-quant/software-documentation/tree/main/',
             label: 'GitHub',
             position: 'right',
           },
@@ -70,43 +55,47 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Member Docs',
                 to: '/docs/intro',
               },
+              {
+                label: 'Project Docs',
+                to: '/docs/intro',
+              }
             ],
           },
           {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Website',
+                href: 'https://uiucquant.web.illinois.edu/'
+              },
+              {
+                label: 'Linkedin',
+                href: 'https://www.linkedin.com/company/quantillinois/',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+                href: 'https://discord.gg/NVbKyv7B88',
+              }
             ],
           },
           {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'GitHub',
+                href: 'https://github.com/uiuc-quant',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+                label: 'Blog',
+                href: 'https://quantillinois.com/blog/',
+              }
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Quant Software Documentation. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
