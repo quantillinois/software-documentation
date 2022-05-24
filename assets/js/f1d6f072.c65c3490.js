@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksoftware_documentation=self.webpackChunksoftware_documentation||[]).push([[7145],{2140:function(o){o.exports=JSON.parse('{"allTagsPath":"/software-documentation/blog/tags","slug":"/software-documentation/blog/tags/facebook","name":"facebook","count":1,"permalink":"/software-documentation/blog/tags/facebook"}')}}]);
