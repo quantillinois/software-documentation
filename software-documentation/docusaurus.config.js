@@ -56,11 +56,11 @@ const config = {
             items: [
               {
                 label: 'Member Docs',
-                to: '/docs/intro',
+                to: '/docs/member-docs/semester-outline/summer2022',
               },
               {
                 label: 'Project Docs',
-                to: '/docs/intro',
+                to: '/docs/project-docs/intro',
               }
             ],
           },
