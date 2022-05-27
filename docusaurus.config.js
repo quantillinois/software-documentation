@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Quant Software Documentation",
   tagline: "It is not enough for code to work.",
-  url: "https://uiuc-quant.github.io/software-documentation",
+  url: "https://docs.quantillinois.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
