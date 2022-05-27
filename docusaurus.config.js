@@ -1,31 +1,31 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Quant Software Documentation',
-  tagline: 'It is not enough for code to work.',
-  url: 'https://uiuc-quant.github.io/software-documentation',
-  baseUrl: '/software-documentation/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'uiuc-quant', 
-  projectName: 'software-documentation', 
-  deploymentBranch: 'gh-pages',
+  title: "Quant Software Documentation",
+  tagline: "It is not enough for code to work.",
+  url: "https://uiuc-quant.github.io/software-documentation",
+  baseUrl: "/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/favicon.ico",
+  organizationName: "uiuc-quant",
+  projectName: "software-documentation",
+  deploymentBranch: "gh-pages",
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: require.resolve("./sidebars.js"),
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve("./src/css/custom.css"),
         },
       }),
     ],
@@ -35,63 +35,63 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Quant Software Documentation',
+        title: "Quant Software Documentation",
         logo: {
-          alt: 'Quant Logo',
-          src: 'img/logo.svg',
+          alt: "Quant Logo",
+          src: "img/logo.svg",
         },
         items: [
           {
-            href: 'https://github.com/uiuc-quant/software-documentation/tree/main/',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://github.com/uiuc-quant/software-documentation/tree/main/",
+            label: "GitHub",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         links: [
           {
-            title: 'Docs',
+            title: "Docs",
             items: [
               {
-                label: 'Member Docs',
-                to: '/docs/member-docs/semester-outline/summer2022',
+                label: "Member Docs",
+                to: "/docs/member-docs/semester-outline/summer2022",
               },
               {
-                label: 'Project Docs',
-                to: '/docs/project-docs/intro',
-              }
+                label: "Project Docs",
+                to: "/docs/project-docs/intro",
+              },
             ],
           },
           {
-            title: 'Community',
+            title: "Community",
             items: [
               {
-                label: 'Website',
-                href: 'https://uiucquant.web.illinois.edu/'
+                label: "Website",
+                href: "https://uiucquant.web.illinois.edu/",
               },
               {
-                label: 'Linkedin',
-                href: 'https://www.linkedin.com/company/quantillinois/',
+                label: "Linkedin",
+                href: "https://www.linkedin.com/company/quantillinois/",
               },
               {
-                label: 'Discord',
-                href: 'https://discord.gg/NVbKyv7B88',
-              }
+                label: "Discord",
+                href: "https://discord.gg/NVbKyv7B88",
+              },
             ],
           },
           {
-            title: 'More',
+            title: "More",
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/uiuc-quant',
+                label: "GitHub",
+                href: "https://github.com/uiuc-quant",
               },
               {
-                label: 'Blog',
-                href: 'https://quantillinois.com/blog/',
-              }
+                label: "Blog",
+                href: "https://quantillinois.com/blog/",
+              },
             ],
           },
         ],
