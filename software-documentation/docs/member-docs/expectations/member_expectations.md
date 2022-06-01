@@ -32,7 +32,7 @@ Note: For more specific roles, we do hire year-round and these can be found on o
 
 ### Application Process
 
-1. Submit an application for either Trader **OR** Developer on our website at [www.quantillinois.com](https://www.quantillinois.com)
+1. Submit an application for either Trader **OR** (exclusively) Developer  on our website at [www.quantillinois.com](https://www.quantillinois.com)
 
 2. Follow the submission requirements for your respective role.
 
