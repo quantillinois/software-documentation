@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Member Expectations at Quant
 
 As a member of Quant, not only will you gain access to a variety of software services and packages as part of our organization, but you will also be required to use these tools to help give back to the community. In addition to this, we also have a few member requirements in order to retain membership of which we will enumerate below.
