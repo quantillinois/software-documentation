@@ -60,10 +60,9 @@ Renewing your membership is a bit more complicated as we want to take in your ac
 - **Attend at least one social event in your division** if there were more than 3 during the last school semester.
 - **Fill out the semesterly member form** and make sure **ALL** information is up-to-date, updating when necessary.
 
-#### <span style="color:tomato">Software Additional Requirements</span>
+#### Software Additional Requirements
 
-- Attend at least **70%** of all <span style="color:tomato">Software</span> meetings (~3/4 per month). Any excused abscence is counted as present for attendance only.
+- Attend at least **70%** of all Software meetings (~3/4 per month). Any excused abscence is counted as present for attendance only.
 - Fully complete at least one project cycle
   - This is up to the discretion of your respective Director
 - Lead a workshop at an event or meeting
-
