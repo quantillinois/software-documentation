@@ -9,7 +9,7 @@ const config = {
   title: "Quant Software Documentation",
   tagline: "It is not enough for code to work.",
   url: "https://docs.quantillinois.com",
-  baseUrl: "/software-documentation/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
