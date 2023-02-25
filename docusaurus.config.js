@@ -9,11 +9,11 @@ const config = {
   title: "Quant Software Documentation",
   tagline: "It is not enough for code to work.",
   url: "https://docs.quantillinois.com",
-  baseUrl: "/",
+  baseUrl: "/software-documentation/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "uiuc-quant",
+  organizationName: "quantillinois",
   projectName: "software-documentation",
   deploymentBranch: "gh-pages",
   presets: [
@@ -42,7 +42,7 @@ const config = {
         },
         items: [
           {
-            href: "https://github.com/uiuc-quant/software-documentation/tree/main/",
+            href: "https://github.com/quantillinois/software-documentation/tree/main/",
             label: "GitHub",
             position: "right",
           },
@@ -69,7 +69,7 @@ const config = {
             items: [
               {
                 label: "Website",
-                href: "https://uiucquant.web.illinois.edu/",
+                href: "https://www.quantillinois.com/",
               },
               {
                 label: "Linkedin",
@@ -77,7 +77,7 @@ const config = {
               },
               {
                 label: "Discord",
-                href: "https://discord.gg/NVbKyv7B88",
+                href: "https://discord.gg/xnjdcgteKR",
               },
             ],
           },
@@ -86,7 +86,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: "https://github.com/uiuc-quant",
+                href: "https://github.com/quantillinois",
               },
               {
                 label: "Blog",
