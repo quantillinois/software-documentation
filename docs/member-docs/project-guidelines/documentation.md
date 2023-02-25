@@ -8,7 +8,7 @@ sidebar_position: 3
 Each project must have the following md files in the public repository:
 - Project Proposal
 - Design Document 
-- ReadME
+- README
 
 ## Code Documentation
 All projects must follow proper style and documentation guidelines. In general Quant will follow the **Google Style Guide** for all languages except python where we will follow **Pep 8**.
