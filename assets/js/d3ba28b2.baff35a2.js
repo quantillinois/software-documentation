@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksoftware_documentation=self.webpackChunksoftware_documentation||[]).push([[479],{2223:function(a){a.exports=JSON.parse('{"allTagsPath":"/software-documentation/blog/tags","slug":"/software-documentation/blog/tags/hola","name":"hola","count":1,"permalink":"/software-documentation/blog/tags/hola"}')}}]);
