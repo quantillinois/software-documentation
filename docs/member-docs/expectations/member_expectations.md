@@ -52,17 +52,13 @@ Renewing your membership is a bit more complicated as we want to take in your ac
 
 ### Requirements
 
-- **Volunteer for at least 5 hours per semester** for a variety of events.
-  - If there are not enough events then a lesser amount may suffice.
-- **Was a member last school semester**
-  - If you volunteered over the summer then that counts. If you didn't, we will use the spring semester.
-- **Attend at least one of Quant's Club-wide meetings** if there were more than 3 during the last school semester.
-- **Attend at least one social event in your division** if there were more than 3 during the last school semester.
-- **Fill out the semesterly member form** and make sure **ALL** information is up-to-date, updating when necessary.
+Your school and personal lives come before Quant and we know that. However, we still want to be transparent about our expectations for each member.
+
+- **Attend** any Quant events you are able to so you can get the best picture of what happens within the Organization.
+- **Communicate** effectively with your team leaders and division heads and let them know about any changing plans that you have.
+- **Ask questions** and strive to understand the subject of your division and how it relates to the wider financial world.
+- **Give back** to the community by helping run outreach events or workshops that can help increase transparency in an opaque system.
 
 #### Software Additional Requirements
 
-- Attend at least **70%** of all Software meetings (~3/4 per month). Any excused abscence is counted as present for attendance only.
-- Fully complete at least one project cycle
-  - This is up to the discretion of your respective Director
-- Lead a workshop at an event or meeting
+- Attend at least **50%** of all Software meetings (~2/4 per month). Any excused abscence is counted as present for attendance only.
